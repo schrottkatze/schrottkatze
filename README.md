@@ -10,4 +10,10 @@ Some of which are:
 
 I do a lot of rust things, enjoy working with a lot of media- and game related things and so, so much more!
 
+We're plural.
+
+Our socials:
+- [onyx](https://mastodon.catgirl.cloud/@onyx)
+- [Jade](https://chaos.social/@schrottkatze)
+
 Note about our activity: I mostly work on my personal forgejo instance, therefor most activity doesn't show here.
